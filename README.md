@@ -1,28 +1,15 @@
-# 🛒 Ratna Supermarket
+# 🛒 ShopEZ: E-commerce Application
 
-Welcome to **Ratna Supermarket** – an online shopping platform that delivers a complete and seamless e-commerce experience. From product browsing to order management, this project simulates a fully functional online store with an intuitive interface.
+Welcome to **ShopEZ: E-commerce Application** – an online shopping platform that delivers a complete and seamless e-commerce experience. From product browsing to order management, this project simulates a fully functional online store with an intuitive interface.
 
 <div align="center">
  <img width="60%" src="https://github.com/user-attachments/assets/187ee773-e25e-41c8-9fea-aa610bf8b03f" />
 </div>
 
----
-
-<p align="center">
-    <a href="https://github.com/MinavKaria/Ratna-Supermarket"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" alt="Open Source"></a>
-    <a href="https://github.com/MinavKaria/"><img src="https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg?v=103" alt="Maintained"></a>
-    <a href="https://github.com/MinavKaria/Ratna-Supermarket/blob/main/LICENSE"><img src="https://img.shields.io/badge/MIT-Licence-blue.svg?v=103" alt="MIT License"></a>  
-    <a href="https://github.com/MinavKaria/Ratna-Supermarket/graphs/contributors"><img src="https://img.shields.io/github/contributors/MinavKaria/Ratna-Supermarket?color=brightgreen" alt="Contributors"></a>
-    <a href="https://github.com/MinavKaria/Ratna-Supermarket/stargazers"><img src="https://img.shields.io/github/stars/MinavKaria/Ratna-Supermarket?color=0059b3" alt="GitHub Stars"></a>
-    <a href="https://github.com/MinavKaria/Ratna-Supermarket/network/members"><img src="https://img.shields.io/github/forks/MinavKaria/Ratna-Supermarket?color=yellow" alt="GitHub Forks"></a>
-    <a href="https://github.com/MinavKaria/Ratna-Supermarket/issues"><img src="https://img.shields.io/github/issues/MinavKaria/Ratna-Supermarket?color=0059b3" alt="GitHub Issues"></a>
-</p>
-
----
 
 ## ✨ Project Overview
 
-**Ratna Supermarket** is designed to provide users with a real-world shopping experience. It includes essential features such as product listings, cart management, user authentication, and order processing. Developed as part of a college project, it showcases a fully-fledged e-commerce platform using modern web development tools.
+**ShopEZ: E-commerce Application** is designed to provide users with a real-world shopping experience. It includes essential features such as product listings, cart management, user authentication, and order processing. Developed as part of a college project, it showcases a fully-fledged e-commerce platform using modern web development tools.
 
 Our **Objective** is to create a user-friendly and responsive online shopping platform that allows customers to explore, add products to their cart, and place orders effortlessly.
 
@@ -30,7 +17,7 @@ Our **Objective** is to create a user-friendly and responsive online shopping pl
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 <center>
 
-# 🌐 **Live Demo:** [Ratna Supermarket](https://ratna-supermaket.minavkaria.xyz/)
+# 🌐 **Live Demo:** [Drive Link]https://drive.google.com/file/d/1fv2RxAtfkeLLU5Hq3YmLkPJ6Kq-xR_U5/view)
 
 </center>
 <p align="center"> 
@@ -58,7 +45,7 @@ Our **Objective** is to create a user-friendly and responsive online shopping pl
 
 ## 🚀 Getting Started
 
-Follow these steps to set up and run the **Ratna Supermarket** project on your local machine:
+Follow these steps to set up and run the **ShopEZ: E-commerce Application** project on your local machine:
 
 ### Prerequisites
 
@@ -70,7 +57,7 @@ Ensure that the following software is installed on your system:
 
 ## 📦 Installation
 
-To set up the **Ratna Supermarket** project on your local machine, follow these detailed instructions for both the frontend and backend.
+To set up the **ShopEZ: E-commerce Application** project on your local machine, follow these detailed instructions for both the frontend and backend.
 
 ### Run With Docker
 
@@ -112,20 +99,20 @@ Use Docker Compose (Note: Docker should be installed)
 ### 🔧 Frontend Setup
 
 1. **Fork the Repository:**  
-   Go to the [Ratna Supermarket GitHub repository](https://github.com/MinavKaria/Ratna-Supermarket) and click the "Fork" button in the top-right corner to create your own copy.
+   Go to the [GMart GitHub repository](https://github.com/MinavKaria/Ratna-Supermarket) and click the "Fork" button in the top-right corner to create your own copy.
 
 2. **Clone the Repository:**  
    Clone your forked repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/Ratna-Supermarket.git
+   git clone https://github.com/yourusername/Gmart.git
    ```
 
 3. **Navigate to the Project Directory:**  
    Change your directory to the cloned project folder:
 
    ```bash
-   cd Ratna-Supermarket
+   cd Gmart
    cd client
    ```
 
@@ -197,7 +184,7 @@ python backend.py
 ## Folder Structure 📂
 
 ```
-Ratna-Supermarket/
+Gmart/
 ├── client/ # React frontend application
 │   ├── src/ # React components and files
 │   ├── public/ # Public static files
@@ -229,37 +216,5 @@ We welcome contributions from the community! To contribute, please check out our
 For more details, refer to the [CONTRIBUTING.md](./CONTRIBUTING.md) file.
 
 ---
-
-## 🤝 Open Source Programs
-
-This project is part of **GirlScript Summer of Code 2024** (GSSoC) Extended, an initiative to help aspiring developers get involved in the open-source community.
-<br>
-<img src="https://github.com/user-attachments/assets/f7abbbe7-1950-4bf9-8456-c812ca630acf" style="width:400px">
-
-This project is also part of **Hacktoberfest 2024**. We encourage participants to contribute and improve the project during this event. Let’s make open source accessible and fun for everyone!
-
-<br>
-<img src="https://hacktoberfest.com/_next/static/media/logo-hacktoberfest-11--green.dd2bc4ca.svg" style="width:400px">
-
----
-
-## Project Admin ⚡
-
-<center>
-<table> 
-    <tr> 
-        <td align="center">
-            <a href="https://github.com/MinavKaria/"><img src="https://avatars.githubusercontent.com/u/119132631?v=4" width=150px height=150px /></a>
-            <h4>Minav</h4>
-        </td> 
-    </tr> 
-</table> 
-</center>
-
-<div><h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" width="35" height="35"> Contributors</h2></div>
-
-We extend our heartfelt gratitude for your invaluable contribution to our project! Your efforts play a pivotal role in elevating Ratna-Supermarket to greater heights.
-
-<a href="https://github.com/MinavKaria/Ratna-Supermarket/graphs/contributors"> <img align="center" src="https://contrib.rocks/image?max=100&repo=MinavKaria/Ratna-Supermarket"/> </a>
 
 <p align="right"><a href="#top"><img src="https://img.shields.io/badge/Move%20to%20top-Blue?style=plastic" alt="Back To Top"></a></p>

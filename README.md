@@ -6,7 +6,6 @@ Welcome to **ShopEZ: E-commerce Application** – an online shopping platform th
  <img width="60%" src="https://github.com/user-attachments/assets/187ee773-e25e-41c8-9fea-aa610bf8b03f" />
 </div>
 
-
 ## ✨ Project Overview
 
 **ShopEZ: E-commerce Application** is designed to provide users with a real-world shopping experience. It includes essential features such as product listings, cart management, user authentication, and order processing. Developed as part of a college project, it showcases a fully-fledged e-commerce platform using modern web development tools.
@@ -17,7 +16,7 @@ Our **Objective** is to create a user-friendly and responsive online shopping pl
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 <center>
 
-# 🌐 **Live Demo:** [Drive Link]https://drive.google.com/file/d/1fv2RxAtfkeLLU5Hq3YmLkPJ6Kq-xR_U5/view)
+# 🌐 **Live Demo:** [Drive Link](https://drive.google.com/file/d/1fv2RxAtfkeLLU5Hq3YmLkPJ6Kq-xR_U5/view)
 
 </center>
 <p align="center"> 
@@ -99,7 +98,7 @@ Use Docker Compose (Note: Docker should be installed)
 ### 🔧 Frontend Setup
 
 1. **Fork the Repository:**  
-   Go to the [GMart GitHub repository](https://github.com/MinavKaria/Ratna-Supermarket) and click the "Fork" button in the top-right corner to create your own copy.
+   Go to the [GMart GitHub repository](https://github.com/J-B-Mugundh/Gmart) and click the "Fork" button in the top-right corner to create your own copy.
 
 2. **Clone the Repository:**  
    Clone your forked repository to your local machine:
